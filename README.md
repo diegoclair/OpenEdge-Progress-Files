@@ -1,9 +1,10 @@
 # OpenEdge-Progress-Files-VsCode
 
-Você poderá conectar o VsCode com o seu banco de dados progress OpenEdge com esses arquivos.
+#Description
+With this files, you will be able to connect your VsCode With a Progress Openedge database.
 
 
 # Install Pre-requisites
-Para isso é necessário a instalação da extensão abaixo do @chriscamicas. (https://github.com/chriscamicas)
+It's necessary to install the follow extension by @chriscamicas (https://github.com/chriscamicas).
 
-Extensão: (https://marketplace.visualstudio.com/items?itemName=chriscamicas.openedge-abl)
+Extension: (https://marketplace.visualstudio.com/items?itemName=chriscamicas.openedge-abl)
