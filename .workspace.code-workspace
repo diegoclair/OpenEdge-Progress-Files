@@ -1,0 +1,26 @@
+﻿{
+    "folders": [
+        {
+            "path": "C:\\Users\\diego\\Desktop\\workSpace"
+        },
+        {
+            "path": "C:\\Users\\diego\\Desktop\\workSpace\\snippets"
+        }
+    ],
+
+    "settings": {
+
+        "window.title": "MY WORKSPACE${separator}${activeEditorShort}${separator}${appName}",
+        "workbench.colorCustomizations": {
+            //"activityBar.background": "#13332E",
+            "titleBar.activeBackground": "#19423B",
+            "titleBar.activeForeground": "#F6FBFB"
+          },
+
+        "abl.checkSyntaxOnSave": "off",
+        "editor.wordBasedSuggestions": false,
+        //"files.autoSave": "afterDelay",
+        "window.zoomLevel": -0.5,
+    },
+    
+}

@@ -1,0 +1,20 @@
+
+
+-Mm 8192
+-E 
+-d dmy 
+-cpstream "ibm850" 
+-h 150
+-yy 1950
+-T c:\temp
+-mmax 6144 
+-stsh 31
+-s 32000
+-TB 31
+-TM 16
+-tok 1600
+-E
+-inp 32000
+
+
+-db {dbname}   -ld {dbname}   -S {dbport}   -H {database}   -N tcp
