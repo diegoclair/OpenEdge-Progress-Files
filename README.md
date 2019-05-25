@@ -1,5 +1,5 @@
 # OpenEdge-Progress-Files-VsCode
-<br>
+
 # Description
 With this files, you will be able to connect your VsCode With a Progress Openedge database.
 <br><br>
